@@ -1,4 +1,3 @@
-# Places Around Me
 ## AIM:
 To develop a website to display details about the places around my house.
 
@@ -66,16 +65,16 @@ SV cinemas.html :
 <!DOCTYPE html>
 <html>
     <head>
-        <title>The Convection Hall</title> 
+        <title>SV cinemas</title> 
     </head>  
     <body>
         <img src="C:\Users\admin\Pictures\Screenshots\CUsersadminPicturesScreenshots.png alt="Convention Hall Image" style="width:100%">
         <br>
         <br>
-        RLN Convection Hall:
+        SV Cinemas:
         <br>
         <br>
-        <h1>THE CONVECTION HALL </h1>
+        <h1>SV Cinemas </h1>
         <br>
         This convection hall is more popular in our town.
         Every big function will be do in that function hall only.
@@ -170,7 +169,8 @@ index.html:
 ![WhatsApp Image 2023-11-21 at 16 27 06_e3bb5d01](https://github.com/SANTHAN-2006/Ex-04-webTech_imagemap/assets/80164014/e67ea816-951e-40b1-bdf9-d90ce515138b)
 
 college.html:
-![image](https://github.com/SANTHAN-2006/Ex-04-webTech_imagemap/assets/80164014/eb7fb4da-be42-4af7-aff2-62a55d92d63a)
+![image](https://github.com/Ajayreddy-2006/Ex-04-webTech_imagemap/assets/145742508/a2c59a20-b09e-4f3f-be0c-3ff01fc5575e)
+
 
 convectionhall.html:
 ![image](https://github.com/SANTHAN-2006/Ex-04-webTech_imagemap/assets/80164014/7bb42eb8-309e-4a72-b071-b78fc530df67)
