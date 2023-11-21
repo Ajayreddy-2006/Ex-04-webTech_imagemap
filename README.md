@@ -166,20 +166,21 @@ temple.html :
 
 ## Output:
 index.html:
-![WhatsApp Image 2023-11-21 at 16 27 06_e3bb5d01](https://github.com/SANTHAN-2006/Ex-04-webTech_imagemap/assets/80164014/e67ea816-951e-40b1-bdf9-d90ce515138b)
+![Screenshot 2023-11-21 221009](https://github.com/Ajayreddy-2006/Ex-04-webTech_imagemap/assets/145742508/ef8c6a84-7fc9-4b4e-a4ea-5ad444b8efea)
 
 college.html:
 ![image](https://github.com/Ajayreddy-2006/Ex-04-webTech_imagemap/assets/145742508/a2c59a20-b09e-4f3f-be0c-3ff01fc5575e)
 
 
-convectionhall.html:
-![image](https://github.com/SANTHAN-2006/Ex-04-webTech_imagemap/assets/80164014/7bb42eb8-309e-4a72-b071-b78fc530df67)
+SV Cinemas:
+![image](https://github.com/Ajayreddy-2006/Ex-04-webTech_imagemap/assets/145742508/583c84c4-c55f-45f7-bf42-95e334513d29)
+
 
 tabunhotel.html:
-![image](https://github.com/SANTHAN-2006/Ex-04-webTech_imagemap/assets/80164014/1da529d0-685f-4960-aeaa-9ccfb537fd49)
+![image](https://github.com/Ajayreddy-2006/Ex-04-webTech_imagemap/assets/145742508/5ed0b875-4e0e-481e-9d6b-b5bce39ae173)
 
 temple.html:
-![image](https://github.com/SANTHAN-2006/Ex-04-webTech_imagemap/assets/80164014/87544148-9424-4094-b33b-f3e325cdce1a)
+![Screenshot 2023-11-21 220447](https://github.com/Ajayreddy-2006/Ex-04-webTech_imagemap/assets/145742508/a3c4f463-38cd-45e5-9517-f9a1ce7ae99f)
 
 
 ## Result:
