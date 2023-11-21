@@ -47,10 +47,11 @@ vemu.html:
         <title>college</title>
     </head>  
     <body>
-        <img src="C:\Users\admin\Downloads\college.jepg" alt="College Image" style="width:100%">
+        <img src=![image](https://github.com/Ajayreddy-2006/Ex-04-webTech_imagemap/assets/145742508/b5d83fbc-2b6d-4b6f-a331-7f56fed38a7a)
+ alt="College Image" style="width:100%">
         <br>
         <br>
-        <h1>SRI VENKATESWARA COLLEGE OF ENGINEERING</h1>
+        <h1>VEMU Institute of Technology</h1>
         <br>
         VEMU Institute of Technology founded and established by a true academician Prof.(Dr.) K. Chandra Sekhar Naidu, Retired Professor, Andhra University. It is located in P. Kothakota, on the Tirupathi- 
         Chittoor Highway in a beautiful 16-acre campus.
@@ -59,7 +60,7 @@ vemu.html:
     </body>  
 </html>
 ```
-convectionhall.html :
+SV cinemas.html :
 
 ```
 <!DOCTYPE html>
@@ -68,7 +69,7 @@ convectionhall.html :
         <title>The Convection Hall</title> 
     </head>  
     <body>
-        <img src="C:\Users\admin\Downloads\convectionhall.jpeg" alt="Convention Hall Image" style="width:100%">
+        <img src="C:\Users\admin\Pictures\Screenshots\CUsersadminPicturesScreenshots.png alt="Convention Hall Image" style="width:100%">
         <br>
         <br>
         RLN Convection Hall:
@@ -87,7 +88,7 @@ convectionhall.html :
     </body>  
 </html>
 ```
-home.html :
+Gandhi Statue.html :
 ```
 <!DOCTYPE html>
 <html>
@@ -100,12 +101,11 @@ home.html :
         HOME:
         <br>
         <br>
-        <h1>SRI VENKATESWARA NILAYAM</h1>
+        <h1>Gandhi Statue</h1>
         <br>
-        My house name is Sri Venkateswara Nilayam. It was built in 1987. For that house 
-        have more history. I like that house so much. Besides, my house will be more trees,
-        it will be so beautiful weather, and in 50 meters the beach will be. The climate of my house will be so beautiful,
-        the surroundings of my house will be so beautiful.
+        The recently erected Gandhi statue behind the I-Town police station replacing a four-decade-old one has a park around it,
+ but the thought of arranging a staircase at the statue seemed to have not occurred to the civic authorities, and its patron, local MLA
+D.A. Satyaprabha. Gandhi Jayanti on Monday brought the first occasion for the public to garland the statue since its installation.
     </body>  
 </html>
 ```
