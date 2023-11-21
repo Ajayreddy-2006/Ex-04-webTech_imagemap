@@ -92,7 +92,7 @@ Gandhi Statue.html :
 <!DOCTYPE html>
 <html>
     <head>
-        <title>HOME</title> 
+        <title>Gandhi Statue</title> 
     </head>  
     <body>
         <br>
